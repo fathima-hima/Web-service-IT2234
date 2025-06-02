@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b6"
+  },
+  "title": "Design Database Schema",
+  "description": "Create the initial database schema for Project Alpha.",
+  "project": {
+    "$oid": "60b8d295fbd1c33e8c8af9b4"
+  },
+  "assignedTo": {
+    "$oid": "60b8d295fbd1c33e8c8af9b1"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b7"
+  },
+  "title": "Develop User Authentication Module",
+  "description": "Implement the user authentication module for Project Alpha.",
+  "project": {
+    "$oid": "60b8d295fbd1c33e8c8af9b4"
+  },
+  "assignedTo": {
+    "$oid": "60b8d295fbd1c33e8c8af9b2"
+  },
+  "dueDate": {
+    "$date": "2024-08-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b8"
+  },
+  "title": "Write Project Proposal",
+  "description": "Draft and submit the project proposal for Project Beta.",
+  "project": {
+    "$oid": "60b8d295fbd1c33e8c8af9b5"
+  },
+  "assignedTo": {
+    "$oid": "60b8d295fbd1c33e8c8af9b3"
+  },
+  "dueDate": {
+    "$date": "2024-08-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b9"
+  },
+  "title": "Conduct Market Research",
+  "description": "Perform market research for the new features in Project Alpha.",
+  "project": {
+    "$oid": "60b8d295fbd1c33e8c8af9b4"
+  },
+  "assignedTo": {
+    "$oid": "60b8d295fbd1c33e8c8af9b1"
+  },
+  "dueDate": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9ba"
+  },
+  "title": "Set Up CI/CD Pipeline",
+  "description": "Configure the CI/CD pipeline for automated testing and deployment.",
+  "project": {
+    "$oid": "60b8d295fbd1c33e8c8af9b5"
+  },
+  "assignedTo": {
+    "$oid": "60b8d295fbd1c33e8c8af9b2"
+  },
+  "dueDate": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  }
+}]

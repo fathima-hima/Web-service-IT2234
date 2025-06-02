@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b4"
+  },
+  "name": "Project Alpha",
+  "description": "First project",
+  "manager": {
+    "$oid": "60b8d295fbd1c33e8c8af9b1"
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b5"
+  },
+  "name": "Project Beta",
+  "description": "Second project",
+  "manager": {
+    "$oid": "60b8d295fbd1c33e8c8af9b2"
+  }
+}]
