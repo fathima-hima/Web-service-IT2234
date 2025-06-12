@@ -1,0 +1,40 @@
+[{
+  "_id": "stu1",
+  "name": "Alice Smith",
+  "email": "alice@example.com",
+  "studentId": "S001",
+  "department": "Computer Science",
+  "year": 2
+},
+{
+  "_id": "stu2",
+  "name": "Bob Johnson",
+  "email": "bob@example.com",
+  "studentId": "S002",
+  "department": "IT",
+  "year": 3
+},
+{
+  "_id": "stu3",
+  "name": "Carol Lee",
+  "email": "carol@example.com",
+  "studentId": "S003",
+  "department": "Software Eng.",
+  "year": 1
+},
+{
+  "_id": "stu4",
+  "name": "David Kim",
+  "email": "david@example.com",
+  "studentId": "S004",
+  "department": "Computer Science",
+  "year": 4
+},
+{
+  "_id": "stu5",
+  "name": "Eva Brown",
+  "email": "eva@example.com",
+  "studentId": "S005",
+  "department": "Cybersecurity",
+  "year": 2
+}]

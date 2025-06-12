@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "683ec68858dae1f430732723"
+  },
+  "student": "stu1",
+  "book": "book1",
+  "borrowDate": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732724"
+  },
+  "student": "stu1",
+  "book": "book2",
+  "borrowDate": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "returned": true
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732725"
+  },
+  "student": "stu2",
+  "book": "book3",
+  "borrowDate": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732726"
+  },
+  "student": "stu2",
+  "book": "book4",
+  "borrowDate": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "returned": true
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732727"
+  },
+  "student": "stu3",
+  "book": "book5",
+  "borrowDate": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732728"
+  },
+  "student": "stu3",
+  "book": "book6",
+  "borrowDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732729"
+  },
+  "student": "stu3",
+  "book": "book7",
+  "borrowDate": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "returned": true
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f43073272a"
+  },
+  "student": "stu4",
+  "book": "book8",
+  "borrowDate": {
+    "$date": "2025-05-03T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f43073272b"
+  },
+  "student": "stu4",
+  "book": "book9",
+  "borrowDate": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "returned": true
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f43073272c"
+  },
+  "student": "stu4",
+  "book": "book10",
+  "borrowDate": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2025-03-21T00:00:00.000Z"
+  },
+  "returned": true
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f43073272d"
+  },
+  "student": "stu5",
+  "book": "book1",
+  "borrowDate": {
+    "$date": "2025-05-07T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f43073272e"
+  },
+  "student": "stu5",
+  "book": "book2",
+  "borrowDate": {
+    "$date": "2025-04-28T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f43073272f"
+  },
+  "student": "stu5",
+  "book": "book3",
+  "borrowDate": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2025-04-29T00:00:00.000Z"
+  },
+  "returned": true
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732730"
+  },
+  "student": "stu1",
+  "book": "book4",
+  "borrowDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "returned": false
+},
+{
+  "_id": {
+    "$oid": "683ec68858dae1f430732731"
+  },
+  "student": "stu2",
+  "book": "book5",
+  "borrowDate": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "returned": true
+}]
