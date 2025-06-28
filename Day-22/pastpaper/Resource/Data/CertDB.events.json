@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b1"
+  },
+  "date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "description": "Annual Science Fair",
+  "name": "Science Fair 2024",
+  "organizer": "Science Club"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b2"
+  },
+  "date": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "description": "Mechanical Engineering Workshop",
+  "name": "Mechanical Workshop",
+  "organizer": "Engineering Department"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b3"
+  },
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "description": "Literature Conference",
+  "name": "English Literature Conference",
+  "organizer": "Arts Department"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b4"
+  },
+  "date": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  },
+  "description": "Physics Symposium",
+  "name": "Physics Symposium 2024",
+  "organizer": "Physics Department"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b5"
+  },
+  "date": {
+    "$date": "2024-09-10T00:00:00.000Z"
+  },
+  "description": "Business Seminar",
+  "name": "Business Strategy Seminar",
+  "organizer": "Business School"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b6"
+  },
+  "date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "description": "Annual Science Fair",
+  "name": "Science Fair 2024",
+  "organizer": "Science Club"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b7"
+  },
+  "date": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "description": "Mechanical Engineering Workshop",
+  "name": "Mechanical Workshop",
+  "organizer": "Engineering Department"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b8"
+  },
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "description": "Literature Conference",
+  "name": "English Literature Conference",
+  "organizer": "Arts Department"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9b9"
+  },
+  "date": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  },
+  "description": "Physics Symposium",
+  "name": "Physics Symposium 2024",
+  "organizer": "Physics Department"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9ba"
+  },
+  "date": {
+    "$date": "2024-09-10T00:00:00.000Z"
+  },
+  "description": "Business Seminar",
+  "name": "Business Strategy Seminar",
+  "organizer": "Business School"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9bb"
+  },
+  "date": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "description": "Computer Science Hackathon",
+  "name": "Hackathon 2024",
+  "organizer": "CS Department"
+},
+{
+  "_id": {
+    "$oid": "60b8d295fbd1c33e8c8af9bc"
+  },
+  "date": {
+    "$date": "2024-11-15T00:00:00.000Z"
+  },
+  "description": "Robotics Workshop",
+  "name": "Robotics Workshop",
+  "organizer": "Robotics Club"
+}]
